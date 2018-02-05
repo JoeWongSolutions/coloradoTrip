@@ -14,7 +14,7 @@ This is a CS4320 assignment to learn Scrum and Agile development practices
  * Joe Wong
  
 ### Destination
-Colorado 
+Boulder, Colorado 
 ### Budget
 $10,000
 ### Length
