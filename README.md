@@ -17,3 +17,14 @@ $1,500
 3 Days
 ### Purpose
 Attend a Wedding
+
+
+# The Basics:
+Trip Start: September 1, 2018
+Trip End: September 4, 2018
+
+Plane Tickets: $312 Roundtrip from St. Louis  to Denver
+
+Hotel:
+
+
