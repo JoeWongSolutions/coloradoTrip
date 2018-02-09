@@ -23,7 +23,7 @@ Attend a Wedding
 Trip Start: September 1, 2018
 Trip End: September 4, 2018
 
-Plane Tickets: $312 Roundtrip from St. Louis  to Denver
+[Plane Tickets](documents/planeTickets.png): $312 Roundtrip from St. Louis  to Denver
 
 Hotel:
 
