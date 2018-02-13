@@ -4,7 +4,7 @@
 ## Day 1 (Arrival Day)
 
 ## Day 2 (Wedding Day)
-
+* Breakfast at [Lucile's](https://www.luciles.com/)
 ## Day 3 (Activities Day)
 
 * Event 2
