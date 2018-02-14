@@ -4,7 +4,6 @@
 ## Day 1 (Arrival Day)
 *Board Flight in Lambert at 12:45 pm
 *Arrive at DIA at 2:07 pm
-*Bus to hotel in boulder $9
 *Welcome Dinner TBD
 ## Day 2 (Wedding Day)
 * Breakfast at [Lucile's](https://www.luciles.com/)
