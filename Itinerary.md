@@ -5,6 +5,7 @@
 * Flight
    * Board Flight in Lambert at 12:45 pm
    * Arrive at DIA at 2:07 pm
+* Estimated 
 * Welcome Dinner TBD
 ## Day 2 (Wedding Day)
 * Breakfast at [Lucile's](https://www.luciles.com/)
