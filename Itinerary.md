@@ -7,6 +7,7 @@
 * Breakfast at [Lucile's](https://www.luciles.com/)
 * Lunch at [brasserie ten ten](https://www.brasserietenten.com) $20
 * Dinner at [Rincon Argentino](https://www.rinconargentinoboulder.com) $15
+* Ceremony & Reception at [The Greenbriar Inn](http://www.greenbriarinn.com) at 5:30
 ## Day 3 (Activities Day)
 * Breakfast at [Foolish Craig's Cafe](http://www.foolishcraigs.com/)
 * Lunch at [Mountain Sun and Pub Brewery](http://www.mountainsunpub.com/new/index.html)
