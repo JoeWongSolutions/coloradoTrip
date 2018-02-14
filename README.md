@@ -25,6 +25,6 @@ Trip End: September 4, 2018
 
 [Plane Tickets](documents/planeTickets.png): $312 Roundtrip from St. Louis  to Denver
 
-Hotel:
+Hotel: [1717 Iris Blvd](HotelInfo.md)
 
 
