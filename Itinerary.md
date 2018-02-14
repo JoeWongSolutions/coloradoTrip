@@ -29,4 +29,4 @@
 
 ## Day 4 (Leave Day)
 * Breakfast at [Snooze](http://snoozeeatery.com/locations/boco/)
-* Estimated bus cost from hotel to Snooze: $3
+    * Estimated bus cost from hotel to Snooze: $3
