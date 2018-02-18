@@ -1,4 +1,5 @@
 # Itinerary for the Colorado Trip
+[Back to Plan](../README.md)
 ## Schedule will be organized by day
 
 ## Day 1 (Arrival Day)
@@ -9,6 +10,7 @@
 * Welcome Dinner TBD
 ## Day 2 (Wedding Day)
 * Breakfast at [Lucile's](https://www.luciles.com/)
+* Planetarium
 * Lunch at [brasserie ten ten](https://www.brasserietenten.com) $20
 * Ceremony & Reception at [The Greenbriar Inn](http://www.greenbriarinn.com) at 5:30
     * Estimated Taxi cost from Hotel to Ceremony: $25
@@ -16,6 +18,7 @@
 ## Day 3 (Activities Day)
 * Breakfast at [Foolish Craig's Cafe](http://www.foolishcraigs.com/)
     * Estimated Bus cost from Hotel to Foolish Craig's: $3
+* Museum of Natural History
 * Lunch at [Mountain Sun and Pub Brewery](http://www.mountainsunpub.com/new/index.html)
 * Event 2
   * Estimated taxi cost from Lunch to Boulder Mountain Park: $12.82

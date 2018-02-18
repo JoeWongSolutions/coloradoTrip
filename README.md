@@ -23,8 +23,14 @@ Attend a Wedding
 Trip Start: September 1, 2018
 Trip End: September 4, 2018
 
-[Plane Tickets](documents/planeTickets.png): $312 Roundtrip from St. Louis  to Denver
+[The Wedding](https://www.theknot.com/us/elizabeth-fish-and-brian-kuhn-sep-2018/)
 
-Hotel: [1717 Iris Blvd](HotelInfo.md)
+[RSVP](documents/Wedding.md)
 
+[Plane Tickets](documents/PlaneTickets.md)
 
+[Hotel](documents/HotelInfo.md)
+
+[Budget](documents/Budget.md)
+
+[Itinerary](documents/Itinerary.md)
