@@ -10,6 +10,7 @@
 * Welcome Dinner TBD
 ## Day 2 (Wedding Day)
 * Breakfast at [Lucile's](https://www.luciles.com/)
+    * Estimed travel time from Lucile's to Planetarium, 16 minutes
     * Estimed Bus cost from Lucile's to Planetarium $2.60
 * Planetarium
 * Lunch at [brasserie ten ten](https://www.brasserietenten.com) $20
