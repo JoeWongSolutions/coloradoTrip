@@ -19,16 +19,16 @@
 * Breakfast at [Foolish Craig's Cafe](http://www.foolishcraigs.com/)
     * Estimated Bus cost from Hotel to Foolish Craig's: $3
 * Museum of Natural History
-* Lunch at [Mountain Sun and Pub Brewery](http://www.mountainsunpub.com/new/index.html)
-* Event 2
-  * Estimated taxi cost from Lunch to Boulder Mountain Park: $12.82
-  * Hiking through the Flatirons at Boulder Mountain Park
-  * Estimated taxi cost from Flatirons to Dinner location: $10.24
-* Have Dinner at [The Sink](https://thesink.com/) in Boulder
-* Event 3
-  * Estimated taxi cost from Dinner to Pearl Street Mall: $4.91
-  * Explore the Pearl Street Mall in Downtown Boulder. Bring $50 for shopping purposes.
-  * Estimated taxi cost from Pearl Street Mall back to hotel: $10.04
+* Lunch at [Mountain Sun and Pub Brewery](http://www.mountainsunpub.com/new/index.html) at 12:00 pm
+* Flatirons
+  * Estimated travel time from Lunch to Boulder Mountain Park, 11 minutes
+  * Hiking through the Flatirons at Boulder Mountain Park from 1:00 pm until 5:00 pm
+  * Estimated travel time from Flatirons to Dinner location, 12 minutes
+* Have Dinner at [The Sink](https://thesink.com/) in Boulder at 5:30 pm
+* Pearl Street Mall
+  * Estimated travel time from Dinner to Pearl Street Mall, 4 minutes
+  * Explore the Pearl Street Mall in Downtown Boulder. Bring $50 for shopping purposes. Begin at 6:30 pm, leave at 10:00 pm.
+  * Estimated travel time from Pearl Street Mall back to hotel, 6 minutes
 
 ## Day 4 (Leave Day)
 * Breakfast at [Snooze](http://snoozeeatery.com/locations/boco/)
