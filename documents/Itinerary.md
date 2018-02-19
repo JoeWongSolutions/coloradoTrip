@@ -10,6 +10,7 @@
 * Welcome Dinner TBD
 ## Day 2 (Wedding Day)
 * Breakfast at [Lucile's](https://www.luciles.com/)
+    * Estimed Bus cost from Lucile's to Planetarium $2.60
 * Planetarium
 * Lunch at [brasserie ten ten](https://www.brasserietenten.com) $20
 * Ceremony & Reception at [The Greenbriar Inn](http://www.greenbriarinn.com) at 5:30
@@ -23,6 +24,7 @@
   * Estimated travel time from Foolish Craig's Cafe to Museum of Natural History, 10 minutes
   * Tour Museum of Natural History from 9:30 am until 12:30 am
   * Estimated travel time from Museum of Natural History to Lunch, 10 minutes
+  * Estimated Bus cost from Museum to lunch $2.60
 * Lunch at [Mountain Sun and Pub Brewery](http://www.mountainsunpub.com/new/index.html) at 1:00 pm
 * Flatirons
   * Estimated travel time from Lunch to Boulder Mountain Park, 11 minutes
