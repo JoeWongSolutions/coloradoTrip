@@ -16,13 +16,17 @@
     * Estimated Taxi cost from Hotel to Ceremony: $25
     * Estimated Bus cost from Ceremony/Reception to Hotel: $6
 ## Day 3 (Activities Day)
-* Breakfast at [Foolish Craig's Cafe](http://www.foolishcraigs.com/)
-    * Estimated Bus cost from Hotel to Foolish Craig's: $3
+* Breakfast at [Foolish Craig's Cafe](http://www.foolishcraigs.com/) at 8:30 am
+    * Estimated travel time from Hotel to Foolish Craig's, 6 minutes
+    * Estimated travel time from Foolish Craig's to Museum of Natural History,
 * Museum of Natural History
-* Lunch at [Mountain Sun and Pub Brewery](http://www.mountainsunpub.com/new/index.html) at 12:00 pm
+  * Estimated travel time from Foolish Craig's Cafe to Museum of Natural History, 10 minutes
+  * Tour Museum of Natural History from 9:30 am until 12:30 am
+  * Estimated travel time from Museum of Natural History to Lunch, 10 minutes
+* Lunch at [Mountain Sun and Pub Brewery](http://www.mountainsunpub.com/new/index.html) at 1:00 pm
 * Flatirons
   * Estimated travel time from Lunch to Boulder Mountain Park, 11 minutes
-  * Hiking through the Flatirons at Boulder Mountain Park from 1:00 pm until 5:00 pm
+  * Hiking through the Flatirons at Boulder Mountain Park from 2:00 pm until 5:00 pm
   * Estimated travel time from Flatirons to Dinner location, 12 minutes
 * Have Dinner at [The Sink](https://thesink.com/) in Boulder at 5:30 pm
 * Pearl Street Mall
@@ -32,4 +36,4 @@
 
 ## Day 4 (Leave Day)
 * Breakfast at [Snooze](http://snoozeeatery.com/locations/boco/)
-    * Estimated bus cost from hotel to Snooze: $3
+    * Estimated travel time from hotel to Snooze, 6 minutes
