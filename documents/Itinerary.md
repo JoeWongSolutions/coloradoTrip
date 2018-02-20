@@ -7,7 +7,10 @@
    * Board Flight in Lambert at 12:45 pm
    * Arrive at DIA at 2:07 pm
 * Estimated Bus to Hotel: $12
-* Welcome Dinner TBD
+* Welcome Dinner at [The Greenbriar Inn](http://www.greenbriarinn.com) at 7:30
+    * Estimated Taxi cost from Hotel to Dinner: $25
+    * Estimated Bus cost from Dinner to Hotel: $6
+
 ## Day 2 (Wedding Day)
 * Breakfast at [Lucile's](https://www.luciles.com/)
     * Estimed travel time from Lucile's to Planetarium, 16 minutes
