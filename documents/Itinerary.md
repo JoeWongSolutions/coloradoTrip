@@ -43,3 +43,6 @@
 ## Day 4 (Leave Day)
 * Breakfast at [Snooze](http://snoozeeatery.com/locations/boco/)
     * Estimated travel time from hotel to Snooze, 6 minutes
+* Flight
+    * Board Flight at DIA at 12:45pm
+    * Arrive at Lambert at 3:41pm
