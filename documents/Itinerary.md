@@ -8,18 +8,17 @@
    * Arrive at DIA at 2:07 pm
 * Estimated Bus to Hotel: $12
 * Welcome Dinner at [The Greenbriar Inn](http://www.greenbriarinn.com) at 7:30
-    * Estimated Taxi cost from Hotel to Dinner: $25
-    * Estimated Bus cost from Dinner to Hotel: $6
+    * Estimated travel time from Hotel to Dinner, 9 min
+    * Estimate travel time bak to hotel, 42 min
 
 ## Day 2 (Wedding Day)
 * Breakfast at [Lucile's](https://www.luciles.com/)
     * Estimed travel time from Lucile's to Planetarium, 16 minutes
-    * Estimed Bus cost from Lucile's to Planetarium $2.60
 * Planetarium
 * Lunch at [brasserie ten ten](https://www.brasserietenten.com) $20
 * Ceremony & Reception at [The Greenbriar Inn](http://www.greenbriarinn.com) at 5:30
-    * Estimated Taxi cost from Hotel to Ceremony: $25
-    * Estimated Bus cost from Ceremony/Reception to Hotel: $6
+    * Estimated travel time from Hotel to Ceremony, 9 min
+    * Estimate travel time bak to hotel, 42 min
 ## Day 3 (Activities Day)
 * Breakfast at [Foolish Craig's Cafe](http://www.foolishcraigs.com/) at 8:30 am
     * Estimated travel time from Hotel to Foolish Craig's, 6 minutes
@@ -44,5 +43,6 @@
 * Breakfast at [Snooze](http://snoozeeatery.com/locations/boco/)
     * Estimated travel time from hotel to Snooze, 6 minutes
 * Flight
+    * Estimated Travel time from Snooze to DIA, 1 hour 20 minutes
     * Board Flight at DIA at 12:45pm
     * Arrive at Lambert at 3:41pm
