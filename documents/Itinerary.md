@@ -6,10 +6,10 @@
 * Flight
    * Board Flight in Lambert at 12:45 pm
    * Arrive at DIA at 2:07 pm
-* Estimated Bus to Hotel: $12
+* Estimated travel time from DIA to Hotel, 1 hour 34 minutes
 * Welcome Dinner at [The Greenbriar Inn](http://www.greenbriarinn.com) at 7:30
     * Estimated travel time from Hotel to Dinner, 9 min
-    * Estimate travel time bak to hotel, 42 min
+    * Estimate travel time back to hotel, 42 min
 
 ## Day 2 (Wedding Day)
 * Breakfast at [Lucile's](https://www.luciles.com/)
@@ -41,8 +41,8 @@
 
 ## Day 4 (Leave Day)
 * Breakfast at [Snooze](http://snoozeeatery.com/locations/boco/)
-    * Estimated travel time from hotel to Snooze, 6 minutes
+    * Estimated travel time for round-trip back to hotel, 12 minutes
 * Flight
-    * Estimated Travel time from Snooze to DIA, 1 hour 20 minutes
+    * Estimated travel time from Hotel to DIA, 1 hour 34 minutes
     * Board Flight at DIA at 12:45pm
     * Arrive at Lambert at 3:41pm
